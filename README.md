@@ -1,6 +1,6 @@
-# VTEX inStore Dev
+# VTEX inStore QA
 
-This project is to launch a new tenant using the instore-core gatsby plugins.
+This project is to launch the tenant instoreqa using the instore-core gatsby plugins.
 
 ## Setup
 
@@ -8,7 +8,7 @@ This project is to launch a new tenant using the instore-core gatsby plugins.
 yarn
 ```
 
-PS.: must have npm permission to use private @vtexlab packages
+PS.: must have npm permission to use private @vtexlab packages with INSTORE_NPM_TOKEN key
 
 ## Run
 
@@ -41,8 +41,6 @@ Open a PR on this repo (probably updating @vtexlab/gatsby-theme-instore-core ver
 ```
 
 ## Cypress
-
-Setup cypress.json with the correct baseUrl (change from base.vtexlocal to the "name of your tenant".vtexlocal)
 
 Declare the environment variables on your terminal:
 

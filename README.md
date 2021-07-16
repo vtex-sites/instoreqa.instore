@@ -8,7 +8,7 @@ This project is to launch the tenant instoreqa using the instore-core gatsby plu
 yarn
 ```
 
-PS.: must have npm permission to use private @vtexlab packages
+PS.: must have npm permission to use private @vtexlab packages with INSTORE_NPM_TOKEN key
 
 ## Run
 

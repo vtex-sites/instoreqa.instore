@@ -6,7 +6,7 @@ module.exports = {
   plugins: [
     {
       resolve: '@vtexlab/gatsby-theme-instore-core',
-      options: { tenant: STORE_ID },
+      options: { tenant: STORE_ID, includeOffline: false },
     },
   ],
 }

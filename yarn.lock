@@ -4042,6 +4042,11 @@
     kebab-hash "^0.1.2"
     webpack-assets-manifest "^5.0.6"
 
+"@vtex/lighthouse-config@^1.1.15":
+  version "1.1.15"
+  resolved "https://registry.yarnpkg.com/@vtex/lighthouse-config/-/lighthouse-config-1.1.15.tgz#81626fcd6554564a62013a1b011ec6644c36b9ea"
+  integrity sha512-VTWnchzoPy6eoaUYNNLKW1QTWRutoFTACmL/5be+DceNTHaOmHFfm96/1JsW+ZnStOfiFxr0bEyetUn68LD30Q==
+
 "@vtex/phone@^4.8.0", "@vtex/phone@^4.8.3":
   version "4.10.1"
   resolved "https://registry.yarnpkg.com/@vtex/phone/-/phone-4.10.1.tgz#3850de9a73ddb4ad61621300c9732d70cebfe4f0"
@@ -4229,10 +4234,10 @@
     vtex-tachyons "^3.2.2"
     whatwg-fetch "2.0.4"
 
-"@vtexlab/gatsby-theme-instore-core@0.4.2":
-  version "0.4.2"
-  resolved "https://registry.yarnpkg.com/@vtexlab/gatsby-theme-instore-core/-/gatsby-theme-instore-core-0.4.2.tgz#0e0a416553db59cc05f178b2f1274effbfd7a90b"
-  integrity sha512-crE3mqYzdN604wGOqIZrI2Zs5a84EnusPqpGdhy++pdfsyZVfiVYi6OYsBW8welhpY8GuJT9aV+iJkp34qHu9A==
+"@vtexlab/gatsby-theme-instore-core@0.4.3-beta.1":
+  version "0.4.3-beta.1"
+  resolved "https://registry.yarnpkg.com/@vtexlab/gatsby-theme-instore-core/-/gatsby-theme-instore-core-0.4.3-beta.1.tgz#f0c2af9b407452116bce1f5fb737b718c8ee28e0"
+  integrity sha512-zLE2fplrXWCIUfhIbRDbcGI0wS70CfBtjKDnx5sSEnOmy0ctNM1Qjil9E0GWAUs5H2WyvYyceM4k1XWtLA/M1g==
   dependencies:
     "@babel/core" "^7.12.13"
     "@babel/plugin-transform-typescript" "^7.13.0"

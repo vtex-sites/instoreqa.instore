@@ -1,6 +1,6 @@
 # VTEX inStore QA
 
-This project is to launch the tenant instoreqa using the instore-core gatsby plugins.
+This project is to launch the tenant `instoreqa` using the inStore Core Gatsby plugins.
 
 ## Setup
 
